@@ -4,6 +4,7 @@
 * *蔡芸琤老師*
 * * *
 HW1: [video](https://youtu.be/Xrt6tGmi7aM)
+
 **1. 設置 MySQL 資料庫**
 首先，你需要在 MySQL 中創建一個資料庫和資料表來存儲用戶的數據。
 
