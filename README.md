@@ -7,4 +7,4 @@
 Making a Mediapedia system to add patients.
 
 ## HW2: [video](https://youtu.be/Xrt6tGmi7aM)
-![Healthcare Appointment Management](./images/螢幕擷取畫面 2024-10-27 173519.png)
+![Healthcare Appointment Management](./images/Healthcare.png)
