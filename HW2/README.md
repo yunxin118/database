@@ -1,4 +1,4 @@
-(Healthcare.png)
+![](database/HW2/Healthcare.png)
 ## Files Overview
 * create_database.py: A Python script to create the required MySQL database and tables for this application, including tables for patients, doctors, and appointments.
 * app.py: The main Flask application file, which defines the routes for viewing, adding, and deleting appointments.
