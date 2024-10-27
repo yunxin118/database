@@ -9,7 +9,6 @@ Making a Mediapedia system to add patients.
 ## HW2: [video](https://youtu.be/Xrt6tGmi7aM)
 ### Healthcare Appointment Management System
 This system is designed to streamline healthcare appointment management by allowing users to create, view, and delete appointments in a structured way. It includes three primary entities: Patients, Doctors, and Appointments.
-* * *
 #### Key Features:
 CRUD Operations: Users can create, read, update, and delete records for patients, doctors, and appointments.
 Appointment Scheduling: Allows users to schedule appointments with specific doctors based on specialization and availability.
