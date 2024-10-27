@@ -26,3 +26,5 @@ Make sure to place this file inside the templates folder in your project directo
 Start the Flask server by running:
 ** python app.py **
 Open your web browser and navigate to http://127.0.0.1:5000/appointments to access the application.
+
+![Healthcare Appointment Management Appointments Information](er.webp)
