@@ -15,3 +15,13 @@ This system is designed to streamline healthcare appointment management by allow
 2. Appointment Scheduling: Allows users to schedule appointments with specific doctors based on specialization and availability.
 3. Data Relationships: Patients and doctors are connected through appointment records, and each appointment includes details like diagnosis, appointment date, and doctor specialization.
 4. SQL Joins: The system utilizes SQL joins to combine data from multiple tables, providing a comprehensive view of appointment information.
+
+## HW3: [video](https://youtu.be/FINuKR7AK1Q)
+### Healthcare Appointment Management System
+![Healthcare Appointment Management Appointments Information](Healthcare.png)
+This system is designed to streamline healthcare appointment management by allowing users to create, view, and delete appointments in a structured way. It includes three primary entities: Patients, Doctors, and Appointments.
+
+## HW4: [video](https://youtu.be/FINuKR7AK1Q)
+
+![Healthcare Appointment Management Appointments Information](Healthcare.png)
+This system is designed to streamline healthcare appointment management by allowing users to create, view, and delete appointments in a structured way. It includes three primary entities: Patients, Doctors, and Appointments.
