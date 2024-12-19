@@ -33,7 +33,7 @@ def create():
         return redirect(url_for('index'))
 
     # If GET request, show the create form
-    return render_template('create.html')
+    return render_template('add.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
